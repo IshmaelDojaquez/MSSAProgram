@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Circle_Rectangle_Square_Triangle_Classes/1.0.0": {
+        "runtime": {
+          "Circle_Rectangle_Square_Triangle_Classes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Circle_Rectangle_Square_Triangle_Classes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\ish20\source\repos\Exercise7\Circle_Rectangle_Square_Triangle_Classes\obj\Debug\netcoreapp3.1\Circle_Rectangle_Square_Triangle_Classes.csprojAssemblyReference.cache
+C:\Users\ish20\source\repos\Exercise7\Circle_Rectangle_Square_Triangle_Classes\obj\Debug\netcoreapp3.1\Circle_Rectangle_Square_Triangle_Classes.AssemblyInfoInputs.cache
+C:\Users\ish20\source\repos\Exercise7\Circle_Rectangle_Square_Triangle_Classes\obj\Debug\netcoreapp3.1\Circle_Rectangle_Square_Triangle_Classes.AssemblyInfo.cs
+C:\Users\ish20\source\repos\Exercise7\Circle_Rectangle_Square_Triangle_Classes\obj\Debug\netcoreapp3.1\Circle_Rectangle_Square_Triangle_Classes.csproj.CoreCompileInputs.cache
+C:\Users\ish20\source\repos\Exercise7\Circle_Rectangle_Square_Triangle_Classes\bin\Debug\netcoreapp3.1\Circle_Rectangle_Square_Triangle_Classes.exe
+C:\Users\ish20\source\repos\Exercise7\Circle_Rectangle_Square_Triangle_Classes\bin\Debug\netcoreapp3.1\Circle_Rectangle_Square_Triangle_Classes.deps.json
+C:\Users\ish20\source\repos\Exercise7\Circle_Rectangle_Square_Triangle_Classes\bin\Debug\netcoreapp3.1\Circle_Rectangle_Square_Triangle_Classes.runtimeconfig.json
+C:\Users\ish20\source\repos\Exercise7\Circle_Rectangle_Square_Triangle_Classes\bin\Debug\netcoreapp3.1\Circle_Rectangle_Square_Triangle_Classes.runtimeconfig.dev.json
+C:\Users\ish20\source\repos\Exercise7\Circle_Rectangle_Square_Triangle_Classes\bin\Debug\netcoreapp3.1\Circle_Rectangle_Square_Triangle_Classes.dll
+C:\Users\ish20\source\repos\Exercise7\Circle_Rectangle_Square_Triangle_Classes\bin\Debug\netcoreapp3.1\Circle_Rectangle_Square_Triangle_Classes.pdb
+C:\Users\ish20\source\repos\Exercise7\Circle_Rectangle_Square_Triangle_Classes\obj\Debug\netcoreapp3.1\Circle_Rectangle_Square_Triangle_Classes.dll
+C:\Users\ish20\source\repos\Exercise7\Circle_Rectangle_Square_Triangle_Classes\obj\Debug\netcoreapp3.1\Circle_Rectangle_Square_Triangle_Classes.pdb
+C:\Users\ish20\source\repos\Exercise7\Circle_Rectangle_Square_Triangle_Classes\obj\Debug\netcoreapp3.1\Circle_Rectangle_Square_Triangle_Classes.genruntimeconfig.cache
