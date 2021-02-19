@@ -1,0 +1,13 @@
+C:\Users\ish20\source\repos\Excercise1A\Mathematical_Formulas\bin\Debug\netcoreapp3.1\Mathematical_Formulas.exe
+C:\Users\ish20\source\repos\Excercise1A\Mathematical_Formulas\bin\Debug\netcoreapp3.1\Mathematical_Formulas.deps.json
+C:\Users\ish20\source\repos\Excercise1A\Mathematical_Formulas\bin\Debug\netcoreapp3.1\Mathematical_Formulas.runtimeconfig.json
+C:\Users\ish20\source\repos\Excercise1A\Mathematical_Formulas\bin\Debug\netcoreapp3.1\Mathematical_Formulas.runtimeconfig.dev.json
+C:\Users\ish20\source\repos\Excercise1A\Mathematical_Formulas\bin\Debug\netcoreapp3.1\Mathematical_Formulas.dll
+C:\Users\ish20\source\repos\Excercise1A\Mathematical_Formulas\bin\Debug\netcoreapp3.1\Mathematical_Formulas.pdb
+C:\Users\ish20\source\repos\Excercise1A\Mathematical_Formulas\obj\Debug\netcoreapp3.1\Mathematical_Formulas.csprojAssemblyReference.cache
+C:\Users\ish20\source\repos\Excercise1A\Mathematical_Formulas\obj\Debug\netcoreapp3.1\Mathematical_Formulas.AssemblyInfoInputs.cache
+C:\Users\ish20\source\repos\Excercise1A\Mathematical_Formulas\obj\Debug\netcoreapp3.1\Mathematical_Formulas.AssemblyInfo.cs
+C:\Users\ish20\source\repos\Excercise1A\Mathematical_Formulas\obj\Debug\netcoreapp3.1\Mathematical_Formulas.csproj.CoreCompileInputs.cache
+C:\Users\ish20\source\repos\Excercise1A\Mathematical_Formulas\obj\Debug\netcoreapp3.1\Mathematical_Formulas.dll
+C:\Users\ish20\source\repos\Excercise1A\Mathematical_Formulas\obj\Debug\netcoreapp3.1\Mathematical_Formulas.pdb
+C:\Users\ish20\source\repos\Excercise1A\Mathematical_Formulas\obj\Debug\netcoreapp3.1\Mathematical_Formulas.genruntimeconfig.cache
