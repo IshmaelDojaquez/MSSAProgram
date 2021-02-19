@@ -1,0 +1,13 @@
+C:\Users\ish20\source\repos\Lab7\Shapes\bin\Debug\netcoreapp3.1\Shapes.exe
+C:\Users\ish20\source\repos\Lab7\Shapes\bin\Debug\netcoreapp3.1\Shapes.deps.json
+C:\Users\ish20\source\repos\Lab7\Shapes\bin\Debug\netcoreapp3.1\Shapes.runtimeconfig.json
+C:\Users\ish20\source\repos\Lab7\Shapes\bin\Debug\netcoreapp3.1\Shapes.runtimeconfig.dev.json
+C:\Users\ish20\source\repos\Lab7\Shapes\bin\Debug\netcoreapp3.1\Shapes.dll
+C:\Users\ish20\source\repos\Lab7\Shapes\bin\Debug\netcoreapp3.1\Shapes.pdb
+C:\Users\ish20\source\repos\Lab7\Shapes\obj\Debug\netcoreapp3.1\Shapes.csprojAssemblyReference.cache
+C:\Users\ish20\source\repos\Lab7\Shapes\obj\Debug\netcoreapp3.1\Shapes.AssemblyInfoInputs.cache
+C:\Users\ish20\source\repos\Lab7\Shapes\obj\Debug\netcoreapp3.1\Shapes.AssemblyInfo.cs
+C:\Users\ish20\source\repos\Lab7\Shapes\obj\Debug\netcoreapp3.1\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\ish20\source\repos\Lab7\Shapes\obj\Debug\netcoreapp3.1\Shapes.dll
+C:\Users\ish20\source\repos\Lab7\Shapes\obj\Debug\netcoreapp3.1\Shapes.pdb
+C:\Users\ish20\source\repos\Lab7\Shapes\obj\Debug\netcoreapp3.1\Shapes.genruntimeconfig.cache
