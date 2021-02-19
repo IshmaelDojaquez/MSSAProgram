@@ -1,0 +1,13 @@
+C:\Users\ish20\source\repos\Exercise5[ReducingSteps]\Reducing_Steps\bin\Debug\netcoreapp3.1\Reducing_Steps.exe
+C:\Users\ish20\source\repos\Exercise5[ReducingSteps]\Reducing_Steps\bin\Debug\netcoreapp3.1\Reducing_Steps.deps.json
+C:\Users\ish20\source\repos\Exercise5[ReducingSteps]\Reducing_Steps\bin\Debug\netcoreapp3.1\Reducing_Steps.runtimeconfig.json
+C:\Users\ish20\source\repos\Exercise5[ReducingSteps]\Reducing_Steps\bin\Debug\netcoreapp3.1\Reducing_Steps.runtimeconfig.dev.json
+C:\Users\ish20\source\repos\Exercise5[ReducingSteps]\Reducing_Steps\bin\Debug\netcoreapp3.1\Reducing_Steps.dll
+C:\Users\ish20\source\repos\Exercise5[ReducingSteps]\Reducing_Steps\bin\Debug\netcoreapp3.1\Reducing_Steps.pdb
+C:\Users\ish20\source\repos\Exercise5[ReducingSteps]\Reducing_Steps\obj\Debug\netcoreapp3.1\Reducing_Steps.csprojAssemblyReference.cache
+C:\Users\ish20\source\repos\Exercise5[ReducingSteps]\Reducing_Steps\obj\Debug\netcoreapp3.1\Reducing_Steps.AssemblyInfoInputs.cache
+C:\Users\ish20\source\repos\Exercise5[ReducingSteps]\Reducing_Steps\obj\Debug\netcoreapp3.1\Reducing_Steps.AssemblyInfo.cs
+C:\Users\ish20\source\repos\Exercise5[ReducingSteps]\Reducing_Steps\obj\Debug\netcoreapp3.1\Reducing_Steps.csproj.CoreCompileInputs.cache
+C:\Users\ish20\source\repos\Exercise5[ReducingSteps]\Reducing_Steps\obj\Debug\netcoreapp3.1\Reducing_Steps.dll
+C:\Users\ish20\source\repos\Exercise5[ReducingSteps]\Reducing_Steps\obj\Debug\netcoreapp3.1\Reducing_Steps.pdb
+C:\Users\ish20\source\repos\Exercise5[ReducingSteps]\Reducing_Steps\obj\Debug\netcoreapp3.1\Reducing_Steps.genruntimeconfig.cache
