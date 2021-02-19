@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Monte_Carlo_Pi/1.0.0": {
+        "runtime": {
+          "Monte_Carlo_Pi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Monte_Carlo_Pi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

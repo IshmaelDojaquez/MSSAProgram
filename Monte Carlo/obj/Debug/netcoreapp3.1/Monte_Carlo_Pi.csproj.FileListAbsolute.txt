@@ -1,0 +1,13 @@
+C:\Users\ish20\source\repos\Lab5\Monte_Carlo_Pi\bin\Debug\netcoreapp3.1\Monte_Carlo_Pi.exe
+C:\Users\ish20\source\repos\Lab5\Monte_Carlo_Pi\bin\Debug\netcoreapp3.1\Monte_Carlo_Pi.deps.json
+C:\Users\ish20\source\repos\Lab5\Monte_Carlo_Pi\bin\Debug\netcoreapp3.1\Monte_Carlo_Pi.runtimeconfig.json
+C:\Users\ish20\source\repos\Lab5\Monte_Carlo_Pi\bin\Debug\netcoreapp3.1\Monte_Carlo_Pi.runtimeconfig.dev.json
+C:\Users\ish20\source\repos\Lab5\Monte_Carlo_Pi\bin\Debug\netcoreapp3.1\Monte_Carlo_Pi.dll
+C:\Users\ish20\source\repos\Lab5\Monte_Carlo_Pi\bin\Debug\netcoreapp3.1\Monte_Carlo_Pi.pdb
+C:\Users\ish20\source\repos\Lab5\Monte_Carlo_Pi\obj\Debug\netcoreapp3.1\Monte_Carlo_Pi.csprojAssemblyReference.cache
+C:\Users\ish20\source\repos\Lab5\Monte_Carlo_Pi\obj\Debug\netcoreapp3.1\Monte_Carlo_Pi.AssemblyInfoInputs.cache
+C:\Users\ish20\source\repos\Lab5\Monte_Carlo_Pi\obj\Debug\netcoreapp3.1\Monte_Carlo_Pi.AssemblyInfo.cs
+C:\Users\ish20\source\repos\Lab5\Monte_Carlo_Pi\obj\Debug\netcoreapp3.1\Monte_Carlo_Pi.csproj.CoreCompileInputs.cache
+C:\Users\ish20\source\repos\Lab5\Monte_Carlo_Pi\obj\Debug\netcoreapp3.1\Monte_Carlo_Pi.dll
+C:\Users\ish20\source\repos\Lab5\Monte_Carlo_Pi\obj\Debug\netcoreapp3.1\Monte_Carlo_Pi.pdb
+C:\Users\ish20\source\repos\Lab5\Monte_Carlo_Pi\obj\Debug\netcoreapp3.1\Monte_Carlo_Pi.genruntimeconfig.cache
