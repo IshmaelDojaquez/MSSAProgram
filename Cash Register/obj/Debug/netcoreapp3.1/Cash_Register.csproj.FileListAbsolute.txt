@@ -1,0 +1,13 @@
+C:\Users\ish20\source\repos\Lab2A\Cash_Register\bin\Debug\netcoreapp3.1\Cash_Register.exe
+C:\Users\ish20\source\repos\Lab2A\Cash_Register\bin\Debug\netcoreapp3.1\Cash_Register.deps.json
+C:\Users\ish20\source\repos\Lab2A\Cash_Register\bin\Debug\netcoreapp3.1\Cash_Register.runtimeconfig.json
+C:\Users\ish20\source\repos\Lab2A\Cash_Register\bin\Debug\netcoreapp3.1\Cash_Register.runtimeconfig.dev.json
+C:\Users\ish20\source\repos\Lab2A\Cash_Register\bin\Debug\netcoreapp3.1\Cash_Register.dll
+C:\Users\ish20\source\repos\Lab2A\Cash_Register\bin\Debug\netcoreapp3.1\Cash_Register.pdb
+C:\Users\ish20\source\repos\Lab2A\Cash_Register\obj\Debug\netcoreapp3.1\Cash_Register.csprojAssemblyReference.cache
+C:\Users\ish20\source\repos\Lab2A\Cash_Register\obj\Debug\netcoreapp3.1\Cash_Register.AssemblyInfoInputs.cache
+C:\Users\ish20\source\repos\Lab2A\Cash_Register\obj\Debug\netcoreapp3.1\Cash_Register.AssemblyInfo.cs
+C:\Users\ish20\source\repos\Lab2A\Cash_Register\obj\Debug\netcoreapp3.1\Cash_Register.csproj.CoreCompileInputs.cache
+C:\Users\ish20\source\repos\Lab2A\Cash_Register\obj\Debug\netcoreapp3.1\Cash_Register.dll
+C:\Users\ish20\source\repos\Lab2A\Cash_Register\obj\Debug\netcoreapp3.1\Cash_Register.pdb
+C:\Users\ish20\source\repos\Lab2A\Cash_Register\obj\Debug\netcoreapp3.1\Cash_Register.genruntimeconfig.cache
