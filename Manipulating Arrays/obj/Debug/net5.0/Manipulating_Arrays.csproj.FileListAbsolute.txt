@@ -1,0 +1,16 @@
+C:\Users\ish20\source\repos\Excercise10\Manipulating_Arrays\bin\Debug\net5.0\Manipulating_Arrays.exe
+C:\Users\ish20\source\repos\Excercise10\Manipulating_Arrays\bin\Debug\net5.0\Manipulating_Arrays.deps.json
+C:\Users\ish20\source\repos\Excercise10\Manipulating_Arrays\bin\Debug\net5.0\Manipulating_Arrays.runtimeconfig.json
+C:\Users\ish20\source\repos\Excercise10\Manipulating_Arrays\bin\Debug\net5.0\Manipulating_Arrays.runtimeconfig.dev.json
+C:\Users\ish20\source\repos\Excercise10\Manipulating_Arrays\bin\Debug\net5.0\Manipulating_Arrays.dll
+C:\Users\ish20\source\repos\Excercise10\Manipulating_Arrays\bin\Debug\net5.0\ref\Manipulating_Arrays.dll
+C:\Users\ish20\source\repos\Excercise10\Manipulating_Arrays\bin\Debug\net5.0\Manipulating_Arrays.pdb
+C:\Users\ish20\source\repos\Excercise10\Manipulating_Arrays\obj\Debug\net5.0\Manipulating_Arrays.csprojAssemblyReference.cache
+C:\Users\ish20\source\repos\Excercise10\Manipulating_Arrays\obj\Debug\net5.0\Manipulating_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ish20\source\repos\Excercise10\Manipulating_Arrays\obj\Debug\net5.0\Manipulating_Arrays.AssemblyInfoInputs.cache
+C:\Users\ish20\source\repos\Excercise10\Manipulating_Arrays\obj\Debug\net5.0\Manipulating_Arrays.AssemblyInfo.cs
+C:\Users\ish20\source\repos\Excercise10\Manipulating_Arrays\obj\Debug\net5.0\Manipulating_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\ish20\source\repos\Excercise10\Manipulating_Arrays\obj\Debug\net5.0\Manipulating_Arrays.dll
+C:\Users\ish20\source\repos\Excercise10\Manipulating_Arrays\obj\Debug\net5.0\ref\Manipulating_Arrays.dll
+C:\Users\ish20\source\repos\Excercise10\Manipulating_Arrays\obj\Debug\net5.0\Manipulating_Arrays.pdb
+C:\Users\ish20\source\repos\Excercise10\Manipulating_Arrays\obj\Debug\net5.0\Manipulating_Arrays.genruntimeconfig.cache
