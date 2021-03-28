@@ -1,0 +1,16 @@
+C:\Users\ish20\source\repos\TicTacToe[Class]\TicTacToe[Class]\bin\Debug\net5.0\TicTacToe[Class].exe
+C:\Users\ish20\source\repos\TicTacToe[Class]\TicTacToe[Class]\bin\Debug\net5.0\TicTacToe[Class].deps.json
+C:\Users\ish20\source\repos\TicTacToe[Class]\TicTacToe[Class]\bin\Debug\net5.0\TicTacToe[Class].runtimeconfig.json
+C:\Users\ish20\source\repos\TicTacToe[Class]\TicTacToe[Class]\bin\Debug\net5.0\TicTacToe[Class].runtimeconfig.dev.json
+C:\Users\ish20\source\repos\TicTacToe[Class]\TicTacToe[Class]\bin\Debug\net5.0\TicTacToe[Class].dll
+C:\Users\ish20\source\repos\TicTacToe[Class]\TicTacToe[Class]\bin\Debug\net5.0\ref\TicTacToe[Class].dll
+C:\Users\ish20\source\repos\TicTacToe[Class]\TicTacToe[Class]\bin\Debug\net5.0\TicTacToe[Class].pdb
+C:\Users\ish20\source\repos\TicTacToe[Class]\TicTacToe[Class]\obj\Debug\net5.0\TicTacToe[Class].csprojAssemblyReference.cache
+C:\Users\ish20\source\repos\TicTacToe[Class]\TicTacToe[Class]\obj\Debug\net5.0\TicTacToe[Class].GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ish20\source\repos\TicTacToe[Class]\TicTacToe[Class]\obj\Debug\net5.0\TicTacToe[Class].AssemblyInfoInputs.cache
+C:\Users\ish20\source\repos\TicTacToe[Class]\TicTacToe[Class]\obj\Debug\net5.0\TicTacToe[Class].AssemblyInfo.cs
+C:\Users\ish20\source\repos\TicTacToe[Class]\TicTacToe[Class]\obj\Debug\net5.0\TicTacToe[Class].csproj.CoreCompileInputs.cache
+C:\Users\ish20\source\repos\TicTacToe[Class]\TicTacToe[Class]\obj\Debug\net5.0\TicTacToe[Class].dll
+C:\Users\ish20\source\repos\TicTacToe[Class]\TicTacToe[Class]\obj\Debug\net5.0\ref\TicTacToe[Class].dll
+C:\Users\ish20\source\repos\TicTacToe[Class]\TicTacToe[Class]\obj\Debug\net5.0\TicTacToe[Class].pdb
+C:\Users\ish20\source\repos\TicTacToe[Class]\TicTacToe[Class]\obj\Debug\net5.0\TicTacToe[Class].genruntimeconfig.cache
