@@ -1,0 +1,47 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Inheritance
+{
+    class Square : Shape
+    {
+        //   F i e l d s
+
+        private double side = 1.0;
+
+        //   C o n s t r u c t o r s
+
+        public Square(double side)
+        {
+            SetSide(side);
+        } // end Square( )
+
+        //   M e t h o d s
+
+        public override double GetArea()
+        {
+            return side * side;
+        } // end GetArea( )
+
+        public override double GetPerimeter()
+        {
+            return 4 * side;
+        } // end GetPerimeter( )
+
+        public double GetSide()
+        {
+            return side;
+        } // end GetSide( )
+
+        public void SetSide(double side)
+        {
+            if (side > 0)
+            {
+                this.side = side;
+            }
+        } // end SetSide( )
+    }
+}
