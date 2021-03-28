@@ -1,0 +1,32 @@
+﻿@model GuestResponse
+
+
+@{ 
+    Layout = null;
+}
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title> Thanks</title>
+</head>
+<body>
+    <div>
+        <h1> Thank You @Model.Name! </h1>
+
+        @if (Model.WillAttend == true)
+            {
+                @: It's great you're coming! The drinks are already in the fridge.
+            }
+        else if (Model.WillAttend == false)
+            {
+                @: Sorry you can't make it! Thanks for letting us know.
+            }
+        else if (Model.WillAttend == null)
+            {
+                @: Hmm. It's going to be agreat party. Make up your mind soon. You dont want to miss it!
+            }
+
+        Click <a asp-action="ListResponses"> here</a> to see who's coming!
+    </div>
+</body>
+</html>
